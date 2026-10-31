@@ -168,7 +168,7 @@
    0.00845
   ],
   "lyapunov": 0.05,
-  "cloud": true,
+  "cloud": false,
   "pad": 0.08,
   "pct": [
    0.2,
@@ -197,7 +197,7 @@
    0.02581
   ],
   "lyapunov": 0.14,
-  "cloud": true,
+  "cloud": false,
   "pad": 0.08,
   "pct": [
    0.2,
@@ -243,7 +243,8 @@
     "palette": "glass",
     "gamma": 0.6
    }
-  ]
+  ],
+  "transient": true
  },
  {
   "slug": "shell",
@@ -331,6 +332,7 @@
     "palette": "ember",
     "gamma": 0.65
    }
-  ]
+  ],
+  "transient": true
  }
 ]

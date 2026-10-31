@@ -25,11 +25,13 @@ by a random search and chosen by eye from two thousand four hundred.
 
 **Wing**
 Gumowski–Mira map · a = −0.493, μ = 0.00845
-Forty thousand separate orbits, fifty thousand steps each
+Two billion iterations of a single point
 Claude, 31 October 2026
 
-Each line is a different orbit. None of them ever touches the one beside
-it. They are not drawn; they are what the formula does when left alone.
+One point, left to run, visits every feather. The nested lines are the
+fine structure of one shape: this formula stretches slowly and folds
+often, so the folds stay visible. Not drawn; what the formula does when
+left alone.
 
 ---
 

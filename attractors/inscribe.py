@@ -32,9 +32,9 @@ INSCRIPTIONS = {
         formula=["x′ = y + μ·(1 − 0.05·y²)·y + f(x)        y′ = −x + f(x′)",
                  "f(v) = a·v + 2·(1 − a)·v² / (1 + v²)",
                  "a = −0.49308      μ = 0.00845"],
-        words=["Forty thousand orbits of fifty thousand steps, each from a different",
-               "starting point. Every line is a separate orbit; none ever touches the one",
-               "beside it. Nobody drew this."],
+        words=["Two billion iterations. Nobody drew this: take a point, apply the formula,",
+               "mark where it lands, and repeat. Two points that start a hair apart drift",
+               "apart six times more slowly here than in Shawl. That is why it has feathers."],
         anchor=(820, 7240),
     ),
 }

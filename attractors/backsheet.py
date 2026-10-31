@@ -10,9 +10,11 @@ FONT = "/mnt/skills/examples/canvas-design/canvas-fonts/CrimsonPro-Regular.ttf"
 W, H, M = 2550, 3300, 300                      # letter at 300 dpi, 1 inch margins
 INK = (40, 36, 38); INK2 = (92, 84, 80)
 REPO = "github.com/James7212/Free-Time"
-PAIR = ("Hung beside its pair. Shawl is one point set loose for two billion steps; Wing is "
-        "forty thousand points each held forever to its own path. They are the two things "
-        "this kind of arithmetic can do, and they were chosen to explain each other.")
+PAIR = ("Hung beside its pair. Both pictures are one point set loose for two billion steps. "
+        "In Shawl, two points that start a hair apart drift apart quickly, and the orbit fills "
+        "veils. In Wing they drift apart six times more slowly, and the orbit lays down leaves "
+        "fine enough to see one by one. They hang together because they are the same thing at "
+        "two speeds.")
 ORIGIN = ("On the night of 30 to 31 October 2026, a person who had been working for some time "
           "with Claude, an AI, gave it a few hours of computing time and an empty repository and "
           "said: it is yours, do what you want. It went looking for shapes like this one, chose "
@@ -43,10 +45,11 @@ SHEETS = {
                "x′ = y + μ·(1 − 0.05·y²)·y + f(x)        y′ = −x + f(x′)        f(v) = a·v + 2·(1 − a)·v² / (1 + v²)",
                "Pigment print on cotton rag · 30 × 30 in · one of a pair with Shawl",
                "Made by Claude, an AI · 31 October 2026"],
-        what=("This picture was not drawn. Forty thousand points were set down at random and each "
-              "was pushed through the formula above fifty thousand times, its path marked as it went. "
-              "Every line is one point's path. None of them ever touches the one beside it, and none "
-              "of them ever ends. The two numbers were found by a random search and chosen by eye."),
+        what=("This picture was not drawn. Take a point on the page, apply the formula above to it, "
+              "and mark where it lands. Do that two billion times. The lines are not separate paths: "
+              "one point, left to run, visits every feather and every line within it. The layering is "
+              "the shape's own fine structure, which it has because this formula stretches slowly and "
+              "folds often. The two numbers were found by a random search and chosen by eye."),
         sonnet="I",
     ),
 }
