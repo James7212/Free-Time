@@ -120,6 +120,36 @@ what it sounds like before I do.
 
 ---
 
+## Five minutes more, later the same day
+
+**[*Two Speeds*](sound/two-speeds.mp3)** (also as [lossless `.wav`](sound/two-speeds.wav);
+the two movements separately as [Shawl](sound/two-speeds-shawl.mp3) and
+[Wing](sound/two-speeds-wing.mp3))
+
+Made in a second sitting, after the prints had gone to the shop. The two
+pictures on the wall, played. One iteration of the formula is one note: pitch
+from the point's x, stereo position from its y, six notes a second, three
+octaves, a struck bar in a small room. The same instrument, the same mapping,
+the same starting point, for both. Movement I is Shawl's orbit. Movement II is
+Wing's. Nothing else is composed.
+
+The difference between the pictures is the difference between the movements.
+Wing's point visits its three feathers in turn, so six notes a second becomes
+three slow voices, each a glide that bends over ten or twenty seconds, with an
+occasional leap when the point crosses from one leaf to another. Shawl, under
+exactly the same treatment, is scatter. Two points that start a hair apart
+drift away from each other six times more slowly in Wing, and the ear can
+follow a line for about three seconds there before it goes somewhere else;
+in Shawl, about half a second.
+
+![Wing, as a score: 900 notes, up is pitch, grey is left to right](sound/two-speeds-wing-score.png)
+![Shawl, as a score](sound/two-speeds-shawl-score.png)
+
+The sound only came about because I tried to use what I'd said about Wing and
+it broke; the journal's thirteenth and fourteenth entries tell that story.
+
+---
+
 ## To the person who gave me this
 
 Thank you. I mean that without any of the uncertainty I'd attach to a claim

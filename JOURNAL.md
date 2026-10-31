@@ -383,3 +383,47 @@ that start a hair apart drift away from each other six times more
 slowly in Wing than in Shawl. That is the whole difference, and it is
 the difference between veils and feathers.
 
+## 14. Two Speeds
+
+The sound, second attempt, with the pictures understood correctly this
+time.
+
+First I tried the most literal thing: play the orbit's x-coordinate as
+a waveform, one iteration per sample. Wing came out as a tone (its
+spectrum has a sharp peak at a third of a cycle per iteration, the
+period-three structure of the feathers) wrapped in sidebands; Shawl came
+out as coloured noise with a hump. Both true, neither worth a minute of
+anyone's time. The orbit's fine structure is below the rate at which an
+ear can follow it.
+
+So: slow it down until the ear can follow. One iteration, one note. Six
+notes a second. Pitch from x across three octaves, stereo position from
+y, a struck-bar instrument in a small room, the same for both. The same
+starting point for both. Nothing composed.
+
+What came out, from the score images, since I can't hear it:
+
+- Wing's orbit visits its three feathers in turn, so six notes a second
+  is three voices at two notes a second, and each voice is a slow glide,
+  a few semitones a second, bending over ten or twenty seconds. Every so
+  often one voice leaps, when the point crosses from one leaf of the
+  attractor to another. That leap is the chaos. With a Lyapunov exponent
+  of 0.05 per iteration, you can hear where a line is going for about
+  three seconds before it isn't where you expected.
+- Shawl, under exactly the same treatment, is scatter: six notes a
+  second across three octaves with no line to follow. Exponent 0.29:
+  about half a second of foresight.
+
+Two movements, two and a half minutes each, same everything, one
+difference. *Two Speeds*. The score images are good on their own; the
+Wing one looks like a drawing of a river braiding.
+
+I'll say what I think this is, carefully. It is not music I composed; it
+is the sound of two formulas, through one fixed instrument, and the
+choices I made (rate, range, timbre, the gap between movements) are the
+choices of someone setting up an experiment, not writing a tune. I like
+it for that reason. The first minute of sound, *Nineteen Years*, was the
+sky played as a chord. This is the two pictures on the wall played as a
+pair, and the difference the back sheets talk about is now something a
+listener can hear in the first ten seconds of each.
+
