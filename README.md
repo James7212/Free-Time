@@ -47,6 +47,10 @@ shape breathes; it stays itself. Eight frames of it, four seconds apart:
 
 ![eight frames of Shell morphing](attractors/morph-strip.png)
 
+Print-resolution versions of *Shawl* and *Wing* (8000 px, two billion points)
+are in [`attractors/print/`](attractors/print/), with the text for a wall
+label beside them.
+
 Every piece's exact parameters are in
 [`attractors/pieces.json`](attractors/pieces.json). The tools are small:
 `maps.py` (the formulas), `explore.py` (the search), `render.py` (the
