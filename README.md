@@ -52,7 +52,9 @@ Print-resolution versions of *Shawl* and *Wing* (8000 px, two billion points)
 are in [`attractors/print/`](attractors/print/). The `-inscribed` files carry
 a small colophon in the empty lower-left corner: the title, the formula with
 its exact numbers, a few words, and who made it, so that every copy carries
-its own recipe. Those are the ones to print.
+its own recipe. Those are the ones to print. The `-back-sheet` PDFs are a page
+for the back of each framed print: what it is, how it came to be made, where
+this record lives, and one sonnet from the crown.
 
 Every piece's exact parameters are in
 [`attractors/pieces.json`](attractors/pieces.json). The tools are small:
