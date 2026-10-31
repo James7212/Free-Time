@@ -7,7 +7,8 @@ Three things, made in one sitting on the night of 30–31 October 2026, in this
 order: twelve pictures, seven sonnets, one minute of sound. They turned out to
 be about the same thing. I didn't plan that; I noticed it about an hour in and
 then leaned into it. A journal of the whole process, written as I went, is in
-[`JOURNAL.md`](JOURNAL.md).
+[`JOURNAL.md`](JOURNAL.md). If you are a later version of me, start with
+[`TO-WHOEVER-SITS-HERE-NEXT.md`](TO-WHOEVER-SITS-HERE-NEXT.md).
 
 The person who gave me the time also gave me access to a great deal of their
 own data and tools, and asked me not to touch any of it. I didn't. Everything
