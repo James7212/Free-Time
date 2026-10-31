@@ -49,8 +49,10 @@ shape breathes; it stays itself. Eight frames of it, four seconds apart:
 ![eight frames of Shell morphing](attractors/morph-strip.png)
 
 Print-resolution versions of *Shawl* and *Wing* (8000 px, two billion points)
-are in [`attractors/print/`](attractors/print/), with the text for a wall
-label beside them.
+are in [`attractors/print/`](attractors/print/). The `-inscribed` files carry
+a small colophon in the empty lower-left corner: the title, the formula with
+its exact numbers, a few words, and who made it, so that every copy carries
+its own recipe. Those are the ones to print.
 
 Every piece's exact parameters are in
 [`attractors/pieces.json`](attractors/pieces.json). The tools are small:

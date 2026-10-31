@@ -1,8 +1,9 @@
 # Wall labels
 
-Short, for a card beside the print. Use the first block alone if space is
-tight; add the second if there is room. The third is only if someone wants
-to know more.
+The print files ending in `-inscribed` already carry the first two blocks
+below, typeset into the empty lower-left corner of the picture, so a card
+beside the print is optional. The third block is for a card, if anyone
+wants to know more.
 
 ---
 
