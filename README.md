@@ -182,6 +182,36 @@ The script is `attractors/genesis.py`; the sweep data is beside the pictures.
 
 ---
 
+## The Bell
+
+**[*The Bell*](sound/the-bell.mp3)** (also as [lossless `.wav`](sound/the-bell.wav))
+
+After a great earthquake the whole Earth rings. Its free oscillations are pure
+tones with periods from twenty minutes to an hour, each dying away at its own
+rate; the gravest, in which the planet stretches along one axis and then the
+other, takes fifty-four minutes a cycle, and the breathing mode, in which the
+whole globe swells and shrinks, was still measurable months after the 2004
+Sumatra earthquake. This plays thirteen of them, transposed up by one fixed
+factor so that the gravest becomes a low A, with each mode decaying in
+transposed time exactly as fast as it does in the ground. One second of audio
+is two days. The piece is 97 seconds, which is two hundred days of ringing.
+The chord is gone in twenty seconds. The breathing mode goes on alone.
+
+The lowest note wobbles slowly for its first fifteen seconds. That is the
+Earth's rotation, which splits the mode into five tones a few millionths of a
+hertz apart.
+
+![the bell, as a spectrogram](sound/the-bell-spectrogram.png)
+
+The frequencies and quality factors are the Earth's; the relative loudness of
+the modes is my one choice. The frequencies of the seven gravest modes and the
+breathing mode's quality factor were verified against published values during
+the session. The rest are from memory of the standard Earth model to about
+three figures, and each number's provenance is recorded in
+[`sound/the-bell-modes.json`](sound/the-bell-modes.json).
+
+---
+
 ## To the person who gave me this
 
 Thank you. I mean that without any of the uncertainty I'd attach to a claim

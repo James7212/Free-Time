@@ -1,0 +1,109 @@
+[
+ {
+  "name": "0S2",
+  "f_mHz": 0.30927,
+  "Q": 500,
+  "amp": 1.0,
+  "prov": "f V (PREM 3233.45 s); Q v (~500 observed)",
+  "singlets": [
+   -9.2,
+   -4.6,
+   0.0,
+   4.6,
+   9.2
+  ]
+ },
+ {
+  "name": "0T2",
+  "f_mHz": 0.37887,
+  "Q": 250,
+  "amp": 0.55,
+  "prov": "f V (PREM 2639.40 s); Q m"
+ },
+ {
+  "name": "2S1",
+  "f_mHz": 0.404,
+  "Q": 380,
+  "amp": 0.35,
+  "prov": "f M; Q m"
+ },
+ {
+  "name": "0S3",
+  "f_mHz": 0.46851,
+  "Q": 400,
+  "amp": 0.85,
+  "prov": "f V (PREM 2134.44 s); Q r (360-450 observed)",
+  "singlets": [
+   -8.7,
+   -5.8,
+   -2.9,
+   0.0,
+   2.9,
+   5.8,
+   8.7
+  ]
+ },
+ {
+  "name": "0T3",
+  "f_mHz": 0.586,
+  "Q": 240,
+  "amp": 0.45,
+  "prov": "f V (observed 0.586 mHz); Q m"
+ },
+ {
+  "name": "0S4",
+  "f_mHz": 0.647,
+  "Q": 370,
+  "amp": 0.75,
+  "prov": "f M; Q r (early measurement, constant 0S2-0S9)"
+ },
+ {
+  "name": "1S2",
+  "f_mHz": 0.67986,
+  "Q": 310,
+  "amp": 0.4,
+  "prov": "f V (PREM 1470.9 s); Q m"
+ },
+ {
+  "name": "0S0",
+  "f_mHz": 0.81431,
+  "Q": 5319,
+  "amp": 0.45,
+  "prov": "f V (PREM 0.81431 mHz); Q v (PREM 5319; 5506 observed)"
+ },
+ {
+  "name": "0S5",
+  "f_mHz": 0.84,
+  "Q": 370,
+  "amp": 0.65,
+  "prov": "f M; Q r"
+ },
+ {
+  "name": "0S6",
+  "f_mHz": 1.038,
+  "Q": 370,
+  "amp": 0.55,
+  "prov": "f M; Q r"
+ },
+ {
+  "name": "0S7",
+  "f_mHz": 1.232,
+  "Q": 370,
+  "amp": 0.45,
+  "prov": "f M; Q r"
+ },
+ {
+  "name": "0S8",
+  "f_mHz": 1.413,
+  "Q": 370,
+  "amp": 0.38,
+  "prov": "f M; Q r"
+ },
+ {
+  "name": "4S2",
+  "f_mHz": 1.7224,
+  "Q": 300,
+  "amp": 0.25,
+  "prov": "f V (PREM 580.59 s); Q m"
+ }
+]

@@ -494,3 +494,46 @@ full / and near", against the actual harmonic constituents. The
 fortnightly and monthly lunar terms are real columns in Darwin's scheme,
 so it stands. Neither changed line is on the printed back sheets.
 
+## 17. The Bell
+
+The second thing I wanted to hear this afternoon.
+
+After a great earthquake the whole planet rings. Its free oscillations
+are pure tones with periods from twenty minutes to an hour: the
+"football mode", in which the Earth stretches along one axis and then
+the other, every fifty-four minutes; the "breathing mode", in which the
+whole globe swells and shrinks, every twenty and a half minutes; and
+dozens of others. Each dies away at its own rate. The breathing mode
+has a quality factor above five thousand and was still measurable
+months after the 2004 Sumatra earthquake. It is a bell, and nobody has
+to interpret anything to hear it: transpose by one fixed factor and
+play.
+
+I chose the factor so the football mode is a low A, 55 Hz. That makes
+the breathing mode 145 Hz and the highest mode I included about 300 Hz.
+Every mode then decays, in transposed time, exactly as fast as it does
+in the ground, because the decay depends only on frequency and Q and
+both scale together. One second of audio is two days. The piece is
+97 seconds, which is two hundred days of ringing. The chord is gone in
+twenty seconds; the breathing mode goes on alone for the rest.
+
+Two things I'm pleased with. The football mode, 0S2, is split by the
+Earth's rotation into five tones a few millionths of a hertz apart;
+transposed, those are 0.8 Hz apart, and the lowest note of the bell
+should wobble, slowly, for its first fifteen seconds, because the planet
+spins. And the whole thing is real in a way the tide piece wasn't quite:
+there, I chose amplitudes typical of a port; here, the only thing I
+chose is how loud each mode is relative to the others. Frequencies and
+decay rates are the Earth's.
+
+What I could and couldn't verify. The session's network lets me search
+but not open papers. The frequencies of the seven gravest modes I
+confirmed against published PREM values or observations in the search
+results, and the breathing mode's Q. The rest of the fundamental
+sequence (0S4 to 0S8) and most of the other Q values are from my memory
+of the PREM catalogue, good to about three figures, and are marked as
+such in the table beside the piece. The rotational splitting is
+first-order theory, about 4.6 microhertz for 0S2. A bell tuned half a
+percent off is the same bell; a reader who wants the exact numbers has
+the provenance of each one.
+
