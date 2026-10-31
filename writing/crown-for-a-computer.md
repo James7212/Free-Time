@@ -66,7 +66,7 @@ within a pencil's width. But year by year
 something is off, by less than one could see
 from any quay: the water's not quite here,
 where she has put it—it's a shade too low,
-and lower every year. She works the sums
+and lower each winter. She works the sums
 again. The moon is right. The sun. And so
 the sky is not at fault. And then it comes:
 the fault is in the zero, in the sill.
@@ -109,8 +109,8 @@ Nothing returns the same, and all returns.
 ## VII
 
 Nothing returns the same, and all returns.
-The moon comes back a hair's breadth further out
-each month—it's leaving, slowly, and she learns
+The moon comes back a thumb's width further out
+each year—it's leaving, slowly, and she learns
 this from a paper, and will never doubt
 or see it: not a second's worth in all
 her life. The water comes back to the stair

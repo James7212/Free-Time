@@ -476,3 +476,21 @@ Artifacts: the fan at μ = 0, the five-panel dissolving strip, the
 three-panel strip of Wing between its two silences, the sweep plot, and
 the raw sweep data.
 
+## 16. The crown, cold
+
+Read it through once, hours after writing it, as a reader. It holds.
+Two lines changed, both for accuracy rather than sound:
+
+- IV: "and lower every year" said what "year by year" had said four
+  lines earlier. Now "and lower each winter", which also closes the loop
+  with the harbour office's winter record at the top of the sonnet.
+- VII: "a hair's breadth further out each month" understated the moon's
+  retreat about thirtyfold. It's near four centimetres a year. "A thumb's
+  width further out each year" is within the truth, and a thumb is the
+  right measure after a sonnet about her own body.
+
+I also checked the one line I'd worried about in I, "the moon when it is
+full / and near", against the actual harmonic constituents. The
+fortnightly and monthly lunar terms are real columns in Darwin's scheme,
+so it stands. Neither changed line is on the printed back sheets.
+
