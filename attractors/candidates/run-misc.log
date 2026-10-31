@@ -1,0 +1,13 @@
+bedhead        tried=400 escaped=0 collapsed=20 kept=380 sheet=36  [285s]
+/home/user/Free-Time/attractors/maps.py:38: RuntimeWarning: overflow encountered in multiply
+  v2 = v * v
+/home/user/Free-Time/attractors/maps.py:39: RuntimeWarning: invalid value encountered in divide
+  return a * v + 2.0 * (1.0 - a) * v2 / (1.0 + v2)
+/home/user/Free-Time/attractors/maps.py:41: RuntimeWarning: overflow encountered in multiply
+  xn = y + alpha * (1.0 - 0.05 * y * y) * y + f(x)
+/home/user/Free-Time/attractors/maps.py:39: RuntimeWarning: overflow encountered in multiply
+  return a * v + 2.0 * (1.0 - a) * v2 / (1.0 + v2)
+/home/user/Free-Time/attractors/explore.py:40: RuntimeWarning: invalid value encountered in subtract
+  dx, dy = xs_ - x, ys_ - y
+gumowski_mira  tried=400 escaped=115 collapsed=9 kept=276 sheet=36  [427s]
+fold           tried=400 escaped=0 collapsed=147 kept=253 sheet=36  [750s]

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+attractors/shell-morph.mp4.frames/
+attractors/*.log
+attractors/shortlist/
+nohup.out

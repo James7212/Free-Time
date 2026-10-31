@@ -1,0 +1,336 @@
+[
+ {
+  "slug": "shawl",
+  "title": "Shawl",
+  "id": "clifford-1-25",
+  "family": "clifford",
+  "params": [
+   -1.23644,
+   -2.76143,
+   -1.12015,
+   -0.25936
+  ],
+  "lyapunov": 0.29,
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "silk",
+    "mode": "silk",
+    "hue": 0.52,
+    "range": 0.28,
+    "sat": 0.7,
+    "gamma": 0.6,
+    "palette": "ember"
+   }
+  ]
+ },
+ {
+  "slug": "stroke",
+  "title": "Stroke",
+  "id": "clifford-1-22",
+  "family": "clifford",
+  "params": [
+   2.5885,
+   -1.07246,
+   1.51681,
+   -0.28609
+  ],
+  "lyapunov": 0.78,
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "ember",
+    "palette": "ember",
+    "gamma": 0.6
+   }
+  ]
+ },
+ {
+  "slug": "sling",
+  "title": "Sling",
+  "id": "clifford-1-15",
+  "family": "clifford",
+  "params": [
+   0.98078,
+   -2.21594,
+   -0.68141,
+   -1.37309
+  ],
+  "lyapunov": 0.51,
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "glass",
+    "palette": "glass",
+    "gamma": 0.6
+   }
+  ]
+ },
+ {
+  "slug": "comet",
+  "title": "Comet",
+  "id": "dejong-1-09",
+  "family": "dejong",
+  "params": [
+   1.77678,
+   -2.83374,
+   1.28615,
+   0.64187
+  ],
+  "lyapunov": 0.33,
+  "pad": 0.08,
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "ember",
+    "palette": "ember",
+    "gamma": 0.6
+   }
+  ]
+ },
+ {
+  "slug": "petal",
+  "title": "Petal",
+  "id": "dejong-1-21",
+  "family": "dejong",
+  "params": [
+   -0.11708,
+   -2.84983,
+   2.26641,
+   1.17702
+  ],
+  "lyapunov": 0.44,
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "silk",
+    "mode": "silk",
+    "hue": 0.55,
+    "range": 0.25,
+    "sat": 0.65,
+    "gamma": 0.6,
+    "palette": "ember"
+   }
+  ]
+ },
+ {
+  "slug": "frond",
+  "title": "Frond",
+  "id": "svensson-1-23",
+  "family": "svensson",
+  "params": [
+   -0.23219,
+   -2.34358,
+   -2.42883,
+   2.63942
+  ],
+  "lyapunov": 0.37,
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "moss",
+    "palette": "moss",
+    "gamma": 0.6
+   }
+  ]
+ },
+ {
+  "slug": "wing",
+  "title": "Wing",
+  "id": "gumowski_mira-1-07",
+  "family": "gumowski_mira",
+  "params": [
+   -0.49308,
+   0.00845
+  ],
+  "lyapunov": 0.05,
+  "cloud": true,
+  "pad": 0.08,
+  "pct": [
+   0.2,
+   99.8
+  ],
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.75
+   },
+   {
+    "name": "glass",
+    "palette": "glass",
+    "gamma": 0.65
+   }
+  ]
+ },
+ {
+  "slug": "bird",
+  "title": "Bird",
+  "id": "gumowski_mira-1-33",
+  "family": "gumowski_mira",
+  "params": [
+   -0.4569,
+   0.02581
+  ],
+  "lyapunov": 0.14,
+  "cloud": true,
+  "pad": 0.08,
+  "pct": [
+   0.2,
+   99.8
+  ],
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.75
+   },
+   {
+    "name": "ember",
+    "palette": "ember",
+    "gamma": 0.65
+   }
+  ]
+ },
+ {
+  "slug": "storm",
+  "title": "Storm",
+  "id": "gumowski_mira-1-09",
+  "family": "gumowski_mira",
+  "params": [
+   0.29734,
+   0.00271
+  ],
+  "lyapunov": 0.07,
+  "cloud": true,
+  "pad": 0.08,
+  "pct": [
+   0.02,
+   99.98
+  ],
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "glass",
+    "palette": "glass",
+    "gamma": 0.6
+   }
+  ]
+ },
+ {
+  "slug": "shell",
+  "title": "Shell",
+  "id": "fold-1-20",
+  "family": "fold",
+  "params": [
+   0.93744,
+   2.63631,
+   -1.21139,
+   -0.29725,
+   -0.60781
+  ],
+  "lyapunov": 0.29,
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "silk",
+    "mode": "silk",
+    "hue": 0.06,
+    "range": 0.2,
+    "sat": 0.6,
+    "gamma": 0.6,
+    "palette": "ember"
+   }
+  ]
+ },
+ {
+  "slug": "envelope",
+  "title": "Envelope",
+  "id": "fold-1-19",
+  "family": "fold",
+  "params": [
+   -2.94897,
+   0.0841,
+   0.08223,
+   0.01702,
+   0.80886
+  ],
+  "lyapunov": 0.33,
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.7
+   },
+   {
+    "name": "glass",
+    "palette": "glass",
+    "gamma": 0.6
+   }
+  ]
+ },
+ {
+  "slug": "grain",
+  "title": "Grain",
+  "id": "fold-1-31",
+  "family": "fold",
+  "params": [
+   1.45368,
+   0.50573,
+   -0.47974,
+   0.82114,
+   1.16576
+  ],
+  "lyapunov": 0.03,
+  "cloud": true,
+  "pad": 0.1,
+  "pct": [
+   0.1,
+   99.9
+  ],
+  "versions": [
+   {
+    "name": "ink",
+    "palette": "ink",
+    "gamma": 0.75
+   },
+   {
+    "name": "ember",
+    "palette": "ember",
+    "gamma": 0.65
+   }
+  ]
+ }
+]
