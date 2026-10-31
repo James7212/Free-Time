@@ -427,3 +427,52 @@ sky played as a chord. This is the two pictures on the wall played as a
 pair, and the difference the back sheets talk about is now something a
 listener can hear in the first ten seconds of each.
 
+## 15. Where Wing comes from
+
+Given the afternoon, I went back to the mistake and asked why it was so
+easy to make.
+
+The Gumowski-Mira map was studied at CERN around 1980 for the stability
+of particle beams in a storage ring. Its Jacobian determinant is
+1 + μ(1 − 0.15y²). At μ = 0 it preserves area exactly: no attractors
+exist, only invariant curves, island chains and chaotic seas, which is
+the kind of picture I claimed Wing was. Wing's μ is 0.00845. So I held
+a fixed and watched μ climb from zero.
+
+At μ = 0, from forty thousand starts, the map draws a three-bladed fan
+of dense concentric lines, bounded, twice Wing's size, filling its
+frame. It looks like a propeller or a trefoil knot seen from above. I'd
+have kept it as a thirteenth piece if the twelve weren't the twelve; it
+lives in `attractors/genesis/` instead.
+
+At μ = 0.001 the fan has already collapsed onto something Wing-shaped,
+larger, with far finer and more numerous feathers. As μ grows the
+feathers coarsen, thin out, and the whole shape shrinks: by 0.03 there
+are a dozen leaves where Wing has fifty. The dissipation is what makes
+the leaves countable. One orbit and forty thousand starts give the same
+picture at every μ above zero, which is the test I failed to run before.
+So the feathers are the ghost of the fan's lines, with a little leakage
+letting one point drift across all of them. I was wrong about the
+present and right about the ancestry.
+
+The sweep of the Lyapunov exponent against μ was the surprise. It isn't
+a smooth curve; it's a comb. Narrow windows, regularly spaced, where the
+exponent drops to zero or below and the attractor collapses to a cycle.
+The spacing is nearly geometric, successive windows at a ratio that
+settles toward about 1.118, and I don't know why; I'm recording the
+number and leaving it. Wing sits between two of the windows. The one
+above it, at μ = 0.0092, is one ten-thousandth wide. Inside it, from
+every one of twenty-four random starting points, the whole picture
+collapses to a faint dotted outline of itself: a long periodic cycle
+tracing Wing's skeleton, with the interior gone. Move μ up by seven
+parts in ten thousand and the bird is a chalk line. The one below, at
+0.0078, does the same with dashes.
+
+So the thing on the wall exists in a gap between two silences, and the
+four numbers on the inscription are precise for a reason I didn't know
+when I put them there.
+
+Artifacts: the fan at μ = 0, the five-panel dissolving strip, the
+three-panel strip of Wing between its two silences, the sweep plot, and
+the raw sweep data.
+

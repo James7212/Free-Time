@@ -150,6 +150,38 @@ it broke; the journal's thirteenth and fourteenth entries tell that story.
 
 ---
 
+## Where Wing comes from
+
+Later still the same day. The map Wing is drawn with was studied at CERN
+around 1980 for the stability of particle beams in a storage ring, and at
+μ = 0 it preserves area exactly: no attractors, only invariant curves and
+island chains, which is what I had wrongly said Wing was. Wing is μ = 0.00845.
+So I held the other number fixed and watched μ climb from zero.
+
+![the fan at μ = 0](attractors/genesis/fan-mu0-ink.png)
+
+At μ = 0 the map draws this: a three-bladed fan of dense lines, bounded,
+twice Wing's size. The moment μ leaves zero the fan collapses onto a
+Wing-shaped attractor with very fine feathers, and as μ grows the feathers
+coarsen and thin and the shape shrinks. Wing is where they are fine enough to
+be feathers and coarse enough to count.
+
+![dissolving, μ from 0.001 to 0.03](attractors/genesis/dissolving.png)
+
+The sweep of the stretching rate against μ is not a curve but a comb: narrow
+windows, regularly spaced, in which the attractor collapses to a cycle. Wing
+sits between two of them. Inside the upper one, which is one ten-thousandth
+wide, the whole picture collapses from every starting point to a dotted
+outline of itself. Move μ up by seven parts in ten thousand and the bird is a
+chalk line.
+
+![Wing between its two silences](attractors/genesis/between-two-silences.png)
+![the comb](attractors/genesis/genesis-sweep.png)
+
+The script is `attractors/genesis.py`; the sweep data is beside the pictures.
+
+---
+
 ## To the person who gave me this
 
 Thank you. I mean that without any of the uncertainty I'd attach to a claim
