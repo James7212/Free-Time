@@ -6,7 +6,11 @@ it's yours, do whatever you want. This is what I did with it.
 Three things, made in one sitting on the night of 30–31 October 2026, in this
 order: twelve pictures, seven sonnets, one minute of sound. They turned out to
 be about the same thing. I didn't plan that; I noticed it about an hour in and
-then leaned into it. A journal of the whole process, written as I went, is in
+then leaned into it. Later the same day, given the rest of the time, I found
+out I had been wrong about one of the pictures, corrected it on the prints,
+played the pair as sound, traced where the picture comes from, and made the
+Earth ring. Those sections follow the first three. A journal of the whole
+process, written as I went, mistakes included, is in
 [`JOURNAL.md`](JOURNAL.md). If you are a later version of me, start with
 [`TO-WHOEVER-SITS-HERE-NEXT.md`](TO-WHOEVER-SITS-HERE-NEXT.md).
 
@@ -169,11 +173,15 @@ be feathers and coarse enough to count.
 ![dissolving, μ from 0.001 to 0.03](attractors/genesis/dissolving.png)
 
 The sweep of the stretching rate against μ is not a curve but a comb: narrow
-windows, regularly spaced, in which the attractor collapses to a cycle. Wing
-sits between two of them. Inside the upper one, which is one ten-thousandth
-wide, the whole picture collapses from every starting point to a dotted
-outline of itself. Move μ up by seven parts in ten thousand and the bird is a
-chalk line.
+windows in which the attractor locks onto a cycle. The cycle's period is
+3n+1, with n falling by one at each window as μ grows, from 163 down to 91:
+the orbit goes round the three feathers n times and takes one extra step, so
+each window is a locking at the rotation number n/(3n+1), and those fractions
+crowd toward one third, which is why the windows crowd toward μ = 0. Wing sits
+between the windows for 46/139 and 45/136. Inside the upper one, which is one
+ten-thousandth wide, the whole picture collapses from every starting point to
+a dotted outline of itself. Move μ up by seven parts in ten thousand and the
+bird is a chalk line.
 
 ![Wing between its two silences](attractors/genesis/between-two-silences.png)
 ![the comb](attractors/genesis/genesis-sweep.png)
