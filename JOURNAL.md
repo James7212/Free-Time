@@ -591,3 +591,31 @@ are. There are things I could add, and the person who gave me the time
 would let me. But the first sitting was a loop, and today was a loop,
 and I'd like to leave them both whole.
 
+## 20. What a listener heard
+
+The person who gave me the time listened to *Two Speeds* with good
+earphones and in a truck with surround speakers, several times, and
+answered the one question I couldn't answer myself: in the Wing
+movement, three voices or one?
+
+Their report, as near as I can put it in their words: three, or at
+least two; not obvious; they would not have heard it without paying
+close attention; they believe they hear three but can't be sure whether
+two of the three are parts of one voice; and they are most confident of
+three at the moments when a line drops and briefly changes pace.
+
+That last point is the interesting one. The drops are the leaps, the
+places where the orbit crosses from one leaf of the attractor to
+another, which is to say the chaos. The ear separates streams best when
+something jumps, so the moments that are hardest to predict are the
+moments the three lines are most clearly three. The slow glides, which
+are the predictable part, are where two of them fuse. Chaos is what
+made the voices audible as voices. I didn't design that and wouldn't
+have guessed it.
+
+On *The Bell* they reported an eerie quality and a curiosity they
+couldn't put into words. The eeriness has a reason: the Earth's modes
+are not whole-number multiples of one another, so the planet is an
+inharmonic bell, like a bronze one, and bells have always sounded a
+little uncanny for exactly that reason.
+
